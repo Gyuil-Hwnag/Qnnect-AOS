@@ -1,4 +1,32 @@
-# Qnnect - Android (initial setting)
+## 큐넥트(Qnnect)
+### [Google Play Store](https://play.google.com/store/apps/details?id=com.iame.qnnect.android)
+## 가족, 친구, 연인과 함께 쓰는 Q&A 다이어리, 큐넥트 하나의 질문 만으로 ‘나’에 대해 알아가고, 나와 가까운 다른 이의 답변을 통해 ‘서로’ 알아갈 수 있는 공유 Q&A 다이어리 서비스, 큐넥트 입니다!
+- 1️⃣ - 그룹이 정한 질문 주기(매일, 3일, 1주일..) 에 푸시알림으로 질문 1개를 드립니다.
+- 2️⃣ 가족/친구/연인의 답변을 통해 서로에 대해 알아가고, 소통할 수 있어요
+- 3️⃣ 답변을 통해 쌓은 포인트로 우리만의 음료 ☕️ 를 만들어보세요!
+<p float="left">
+ <img src="https://user-images.githubusercontent.com/84956038/174083810-f668b143-a04a-471b-b16d-f4cfc358eace.jpg" width="20%" height="20%%"> 
+ <img src="https://user-images.githubusercontent.com/84956038/174083835-4a7861e5-1c6b-4d79-9cd3-c2e54d777a3c.jpg" width="20%" height="20%%">
+ <img src="https://user-images.githubusercontent.com/84956038/174083845-faf679d4-517a-4c36-a5d7-2c9db2484acc.jpg" width="20%" height="20%%">
+ <img src="https://user-images.githubusercontent.com/84956038/174083844-7ed9f07a-a49a-4242-acd1-6f5eb5a1ccb4.jpg" width="20%" height="20%%">
+</p>
+<p float="left">
+ <img src="https://user-images.githubusercontent.com/84956038/174083850-cd71346d-58c6-48b0-a6ab-ce7993a8d80e.jpg" width="20%" height="20%%">
+ <img src="https://user-images.githubusercontent.com/84956038/174083853-b458d1e3-1778-4f12-b6fc-378197489dc4.jpg" width="20%" height="20%%">
+ <img src="https://user-images.githubusercontent.com/84956038/174083860-1449e30e-4562-4dc1-9a29-0ca0e3c5e30b.jpg" width="20%" height="20%%">
+ <img src="https://user-images.githubusercontent.com/84956038/174083862-df4abf95-1631-4f6b-bd9d-d48870af5b33.jpg" width="20%" height="20%%">
+</p>
+
+## stack
+- Kotlin
+- MVVM(AAC)
+- Rxjava + Retrofit2
+- lifecycleScope
+- Koin
+- Firebase Messaging, Firebase DynamicLink
+- KakaoLink
+
+## 주차별 진행상황
 - 함께 쓰는 Q&A 다이어리 App
 - 1st Week
 1. 2022.02.12(SAT) -> gradle setting
